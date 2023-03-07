@@ -1,0 +1,19 @@
+@font-face { 
+font-family: 'moonbridge'; 
+src: 
+url('https://cdn.jsdelivr.net/gh/TaylorLottner/CDN@master/TYPES/moonbridge/moonbridge.woff2') format('woff2'), 
+url('https://cdn.jsdelivr.net/gh/TaylorLottner/CDN@master/TYPES/moonbridge/moonbridge.woff') format('woff'), 
+url('https://cdn.jsdelivr.net/gh/TaylorLottner/CDN@master/TYPES/moonbridge/moonbridge.ttf') format('truetype'); 
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+
+} 
+:not(i) {
+font-family: "moonbridge"; 
+} 
+
+/** 
+*:not ([class*="icon"]):not (i) { 
+font-family: "moonbridge" !important; 
+} **/ 
