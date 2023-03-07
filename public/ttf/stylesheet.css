@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'REEJI-TaikoRiskGB-Flash';
     src: url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.eot');
-    src: url('REEJI-TaikoRiskGB-Flash.eot?#iefix') format('embedded-opentype'),
+    src:
         url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff2'),
         url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff') format('woff'),
         url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.ttf') format('truetype'),
