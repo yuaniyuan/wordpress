@@ -1,16 +1,15 @@
-@font-face {
-    font-family: 'REEJI-TaikoRiskGB-Flash';
-    src: url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.eot');
-    src:
-        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff2'),
-        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.ttf') format('truetype'),
-        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    
-    :not(i) {
+@font-face { 
+font-family: 'moonbridge'; 
+src: 
+url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff2') format('woff2'), 
+url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff') format('woff'), 
+url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.ttf') format('truetype'); 
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+
+} 
+:not(i) {
 font-family: "moonbridge"; 
 } 
 
@@ -18,5 +17,3 @@ font-family: "moonbridge";
 *:not ([class*="icon"]):not (i) { 
 font-family: "moonbridge" !important; 
 } **/ 
-}
-
