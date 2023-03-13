@@ -10,10 +10,10 @@ font-display: swap;
 
 } 
 :not(i) {
-font-family: "moonbridge"; 
+font-family: "REEJI-TaikoRiskGB-Flash"; 
 } 
 
 /** 
 *:not ([class*="icon"]):not (i) { 
-font-family: "moonbridge" !important; 
+font-family: "REEJI-TaikoRiskGB-Flash" !important; 
 } **/ 
