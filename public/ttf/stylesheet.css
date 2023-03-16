@@ -1,19 +1,10 @@
-@font-face { 
-font-family: 'REEJI-TaikoRiskGB-Flash'; 
-src: 
-url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff2') format('woff2'), 
-url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.woff') format('woff'), 
-url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/REEJI-TaikoRiskGB-Flash.ttf') format('truetype'); 
-font-weight: normal;
-font-style: normal;
-font-display: swap;
+@font-face {
+    font-family: 'RTWS YueRoundedGothic G0v1';
+    src: url('RTWSYueRoudGoG0v1-Regular.woff2') format('woff2'),
+        url('RTWSYueRoudGoG0v1-Regular.woff') format('woff'),
+        url('RTWSYueRoudGoG0v1-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
-} 
-:not(i) {
-font-family: "REEJI-TaikoRiskGB-Flash"; 
-} 
-
-/** 
-*:not ([class*="icon"]):not (i) { 
-font-family: "REEJI-TaikoRiskGB-Flash" !important; 
-} **/ 
