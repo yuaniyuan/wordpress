@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'RTWS YueRoundedGothic G0v1';
+    src: url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/RTWSYueRoudGoG0v1-Regular.woff2('woff2'),
+        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/RTWSYueRoudGoG0v1-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/yuaniyuan/wordpress@main/public/ttf/RTWSYueRoudGoG0v1-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
